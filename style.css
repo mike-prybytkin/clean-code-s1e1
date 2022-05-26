@@ -27,9 +27,9 @@ ul {
 
 @media (max-width:768px) {
 
-.about-matrix-wrapper { 
-  text-align: center;
-}
+  .about-matrix-wrapper { 
+    text-align: center;
+  }
 
 }
 
@@ -68,7 +68,7 @@ ul {
 }
 
 .btn:hover {
-    color: #3a3a3a;
+  color: #3a3a3a;
 }
 
 /* Heading */
