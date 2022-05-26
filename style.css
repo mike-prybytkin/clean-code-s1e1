@@ -47,6 +47,7 @@ ul {
 
 .task-row-wrapper {
   display: flex;
+  padding-top: 20px;
 }
 
 .list-item, 
