@@ -1,6 +1,6 @@
 /* Basic Style */
 ul {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
@@ -50,11 +50,11 @@ ul {
 }
 
 .list-item, .item-heading {
-  list-style:none;
+  list-style: none;
 }
 
 .input,.btn{
-  outline:none;
+  outline: none;
 }
 
 .btn {
@@ -136,7 +136,7 @@ ul {
   width: 226px;
 }
 
-.list-item >    .input[type="text"] {
+.list-item > .input[type="text"] {
   width: 226px
 }
 
@@ -162,10 +162,10 @@ ul {
 }
 
 .edit-mode .input[type=text] {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .label {
-  display:none;
+  display: none;
 }
