@@ -49,11 +49,13 @@ ul {
   display: flex;
 }
 
-.list-item, .item-heading {
+.list-item, 
+.item-heading {
   list-style: none;
 }
 
-.input,.btn{
+.input,
+.btn{
   outline: none;
 }
 
