@@ -1,5 +1,6 @@
 /* Basic Style */
-ul {
+.items__incomplete-tasks,
+.items__completed-tasks {
   margin: 0;
   padding: 0px;
 }
